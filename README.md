@@ -9,8 +9,13 @@ This is a full-stack dashboard project developed using React, Express, and Mongo
 - Profile form for adding new user profiles (opens in a modal)
 
 ## Screenshots
+Login/SignUp Page
+
+
+
 Dashboard View
 
+![image](https://github.com/user-attachments/assets/78fcafd1-5192-44ff-a44f-65c178e1200e)
 
 Profile Form
 
