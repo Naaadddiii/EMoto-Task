@@ -11,7 +11,7 @@ This is a full-stack dashboard project developed using React, Express, and Mongo
 ## Screenshots
 Login/SignUp Page
 
-
+![image](https://github.com/user-attachments/assets/f2fe531e-010b-49ed-8a16-dc0cdb928d95)
 
 Dashboard View
 
