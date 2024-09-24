@@ -19,5 +19,6 @@ Dashboard View
 
 Profile Form
 
-Data Visualization (Charts)
+![image](https://github.com/user-attachments/assets/41446088-5fed-4b9b-bd31-cb9313377e96)
+
 
